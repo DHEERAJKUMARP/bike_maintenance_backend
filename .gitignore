@@ -1,10 +1,16 @@
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*.sqlite3
 *.db
+
+# Virtual environments
 venv/
 .env
-.idea/
-.vscode/
-.DS_Store
+
+# Editor files
+*.vscode
+*.idea
+
+# Logs
+log.txt
